@@ -858,8 +858,12 @@ form textarea {
 
  .top {
   bottom: 2.1rem;
-  right: 3.1rem;
+  right: 5.1rem;
  }
+
+  .header {
+  padding: 20px 10px;
+  }
 
   .contact {
     display: flex;
