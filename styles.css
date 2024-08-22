@@ -856,9 +856,10 @@ form textarea {
     width: 300px;
   }
 
-  .header {
-  padding: 5px 10%;
-  }
+ .top {
+  bottom: 2.1rem;
+  right: 3.1rem;
+ }
 
   .contact {
     display: flex;
