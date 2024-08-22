@@ -876,6 +876,9 @@ form textarea {
 .info {
   width: 280px
 }  
+.container {
+padding: 20px;
+}
 }
 
 @media screen and (min-width: 610px) {
