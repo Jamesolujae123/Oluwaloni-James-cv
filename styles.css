@@ -826,6 +826,7 @@ form textarea {
     background: #051129;
     height: 100vh;
     right: 0;
+    transition: 1s;
   }
 
   .home {
