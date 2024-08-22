@@ -879,6 +879,9 @@ form textarea {
 .container {
 padding: 20px;
 }
+  .row img {
+    width: 300px
+  }
 }
 
 @media screen and (min-width: 610px) {
