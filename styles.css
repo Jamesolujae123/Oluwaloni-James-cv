@@ -836,7 +836,7 @@ form textarea {
   }
   .prof-img {
     position: absolute;
-    width: 300px;
+    width: 500px;
     left: -80px;
     top: 50px;
   }
@@ -854,6 +854,10 @@ form textarea {
   .about-text {
     margin-left: 15px;
     width: 300px;
+  }
+
+  .header {
+  padding: 5px 10%;
   }
 
   .contact {
