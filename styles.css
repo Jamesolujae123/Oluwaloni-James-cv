@@ -871,7 +871,7 @@ form textarea {
     flex-direction: column;
   }
 .Portfolio-content {
-  padding-inline: 0px;
+  padding-inline: 5px;
 }  
 .info {
   width: 280px;
@@ -880,10 +880,10 @@ form textarea {
 padding: 20px;
 }
   .row img {
-    width: 350px;
+    width: 340px;
   }
   .layer {
-width: 350px;
+width: 340px;
   }
 }
 
