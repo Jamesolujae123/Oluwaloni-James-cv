@@ -872,6 +872,9 @@ form textarea {
 .Portfolio-content {
   padding-inline: 20px;
 }  
+.info {
+  width: 280px
+}  
 }
 
 @media screen and (min-width: 610px) {
