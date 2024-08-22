@@ -850,6 +850,7 @@ form textarea {
     display: flex;
     flex-direction: column;
     margin-top: 540px;
+      margin-right: 0px;
   }
   .about-text {
     margin-left: 15px;
