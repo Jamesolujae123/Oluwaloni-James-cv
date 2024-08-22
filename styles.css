@@ -869,6 +869,9 @@ form textarea {
     display: flex;
     flex-direction: column;
   }
+.Portfolio-content {
+  padding-inline: 20px;
+}  
 }
 
 @media screen and (min-width: 610px) {
