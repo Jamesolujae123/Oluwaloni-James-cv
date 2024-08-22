@@ -836,12 +836,14 @@ form textarea {
   }
   .prof-img {
     position: absolute;
+    width: 300px;
     left: -80px;
     top: 50px;
   }
 
   .abt-img {
     margin-left: 15px;
+    width: 300px
   }
 
   .about {
