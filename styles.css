@@ -832,7 +832,7 @@ form textarea {
     flex-direction: column;
   }
   .home-content {
-    margin-top: 455px;
+    margin-top: 439px;
   }
   .prof-img {
     position: absolute;
@@ -849,7 +849,7 @@ form textarea {
   .about {
     display: flex;
     flex-direction: column;
-    margin-top: 540px;
+    margin-top: 510px;
       margin-right: 0px;
   }
   .about-text {
