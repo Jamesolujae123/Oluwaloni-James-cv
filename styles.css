@@ -435,11 +435,12 @@ body {
 }
 
 .fa-solid.fa-bars {
-  font-size: 25px;
+  margin-left: 10px;
+  font-size: 28px;
 }
 
  .fa-solid.fa-xmark {
-     font-size: 25px;
+     font-size: 26px;
  }
 
 .Portfolio-content {
