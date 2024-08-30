@@ -434,6 +434,14 @@ body {
   color: #0ef;
 }
 
+.fa-solid.fa-bars {
+  font-size: 25px;
+}
+
+ .fa-solid.fa-xmark {
+     font-size: 25px;
+ }
+
 .Portfolio-content {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(359px, auto));
