@@ -912,6 +912,12 @@ padding: 20px;
   .layer {
 width: 340px;
   }
+
+  .cert-pic {
+    height: 200px;
+    width: 300px;
+  }
+  
 }
 
 @media screen and (min-width: 610px) {
