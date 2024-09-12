@@ -159,11 +159,9 @@ body {
 }
 
 .about {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  display: flex;
   align-items: center;
   gap: 1.5rem;
-  margin-right: 30px;
 }
 
 .abt-img {
