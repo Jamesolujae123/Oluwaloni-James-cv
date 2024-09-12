@@ -432,7 +432,7 @@ body {
 
 .technical-skills-cont {
   display: flex;
-  gap: 30px;
+  gap: 100px;
   justify-content: center;
 }
 
